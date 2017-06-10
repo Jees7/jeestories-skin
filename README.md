@@ -8,3 +8,8 @@ My tistory blog skin and front design http://jeestories.tistory.com/
 v 1.0
 * SyntaxHighlightger 3.0.83 적용
 * 메뉴에 SNS 링크 추가
+
+## Next Update
+* Social Link 정리
+* 너비 확장
+* Font 변경
